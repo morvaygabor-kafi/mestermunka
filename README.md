@@ -1,4 +1,6 @@
 # Magánóvoda informatikai hálózatának tervezése és kivitelezése
 Készítette: Morvay Gábor, Morvay Róbert, Suszter Enikő
 
-A mestermunkával kapcsolatos mp4 fájl elérési linkje egy txt fájlban lett feltöltve.
+Cisco Packet Tracer version: 9.0.0.0810
+
+A mestermunkával kapcsolatos mp4 fájl elérési linkje Mestermunka_Maganóvoda informatikai halozat tervezes.txt fájlban lett feltöltve.
